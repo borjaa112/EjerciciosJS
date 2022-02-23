@@ -1,0 +1,1 @@
+//Se imprime cada elemento del array, de igual modo que en el ejercicio 2.

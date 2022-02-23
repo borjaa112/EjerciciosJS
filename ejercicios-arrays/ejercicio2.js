@@ -1,0 +1,3 @@
+/*
+Ocurre que se imprimen los arrays elemento por elemento.
+*/
